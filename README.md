@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked, peculiarity of Perl's post-increment operator. The example showcases how the post-increment operator returns the *original* value of the variable before the increment takes place, which can lead to unexpected results if not handled carefully.  The solution provides a clear alternative to avoid this pitfall.
